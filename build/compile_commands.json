@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/VSCodeFile/OpenGL_Project6/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/OpenGL_Project1.dir/includes_CXX.rsp -g -o CMakeFiles\\OpenGL_Project1.dir\\src\\camera.cpp.obj -c D:\\VSCodeFile\\OpenGL_Project6\\src\\camera.cpp",
+  "file": "D:/VSCodeFile/OpenGL_Project6/src/camera.cpp",
+  "output": "CMakeFiles/OpenGL_Project1.dir/src/camera.cpp.obj"
+},
+{
+  "directory": "D:/VSCodeFile/OpenGL_Project6/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe  @CMakeFiles/OpenGL_Project1.dir/includes_C.rsp -g -o CMakeFiles\\OpenGL_Project1.dir\\src\\glad.c.obj -c D:\\VSCodeFile\\OpenGL_Project6\\src\\glad.c",
+  "file": "D:/VSCodeFile/OpenGL_Project6/src/glad.c",
+  "output": "CMakeFiles/OpenGL_Project1.dir/src/glad.c.obj"
+},
+{
+  "directory": "D:/VSCodeFile/OpenGL_Project6/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/OpenGL_Project1.dir/includes_CXX.rsp -g -o CMakeFiles\\OpenGL_Project1.dir\\src\\main.cpp.obj -c D:\\VSCodeFile\\OpenGL_Project6\\src\\main.cpp",
+  "file": "D:/VSCodeFile/OpenGL_Project6/src/main.cpp",
+  "output": "CMakeFiles/OpenGL_Project1.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/VSCodeFile/OpenGL_Project6/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/OpenGL_Project1.dir/includes_CXX.rsp -g -o CMakeFiles\\OpenGL_Project1.dir\\src\\mesh.cpp.obj -c D:\\VSCodeFile\\OpenGL_Project6\\src\\mesh.cpp",
+  "file": "D:/VSCodeFile/OpenGL_Project6/src/mesh.cpp",
+  "output": "CMakeFiles/OpenGL_Project1.dir/src/mesh.cpp.obj"
+},
+{
+  "directory": "D:/VSCodeFile/OpenGL_Project6/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/OpenGL_Project1.dir/includes_CXX.rsp -g -o CMakeFiles\\OpenGL_Project1.dir\\src\\model.cpp.obj -c D:\\VSCodeFile\\OpenGL_Project6\\src\\model.cpp",
+  "file": "D:/VSCodeFile/OpenGL_Project6/src/model.cpp",
+  "output": "CMakeFiles/OpenGL_Project1.dir/src/model.cpp.obj"
+},
+{
+  "directory": "D:/VSCodeFile/OpenGL_Project6/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/OpenGL_Project1.dir/includes_CXX.rsp -g -o CMakeFiles\\OpenGL_Project1.dir\\src\\shader.cpp.obj -c D:\\VSCodeFile\\OpenGL_Project6\\src\\shader.cpp",
+  "file": "D:/VSCodeFile/OpenGL_Project6/src/shader.cpp",
+  "output": "CMakeFiles/OpenGL_Project1.dir/src/shader.cpp.obj"
+}
+]
